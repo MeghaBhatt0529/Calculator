@@ -1,3 +1,9 @@
+body{
+    margin:auto
+}
+a{
+    text-decoration: none;
+}
 .container{
     border:2px solid rgb(19, 17, 17);
     width: 400px;
@@ -6,7 +12,7 @@
     font-family: 'Times New Roman', Times, serif;
     border-radius: 12px;
     color: black;
-   
+    margin-top: 4%;   
 }
 table{
     width: 100%;
@@ -19,7 +25,7 @@ button{
     width: 98%;
     height: 50px;
     background-color:rgb(97, 96, 96);
-    color: rgb(12, 11, 17);
+    color: rgb(6, 5, 10);
     border-radius: 12px;
     border: 2px solid rgb(20, 20, 20);
     font-style: italic;
